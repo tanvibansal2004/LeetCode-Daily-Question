@@ -1,4 +1,4 @@
 # LeetCode-Daily-Question
-Git Repository for LeetCode Daily Questions.
+This is a Git Repository for LeetCode Daily Questions.
 <br>
 Author - Tanvi Bansal
